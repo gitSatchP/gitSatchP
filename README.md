@@ -1,5 +1,5 @@
 ________________________________
-👋 Hi, my name is Satch Peterson
+👋 Hi, my name is Satchel Peterson
 ________________________________
 I am a third year at Columbia University studying Computer Science 
 with a lifelong background as a musician. After many years of engagement on this front, 
